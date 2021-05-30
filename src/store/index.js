@@ -149,3 +149,5 @@ export default new Vuex.Store({
 });
 
 //https://us-central1-otto-klaus-99dfe.cloudfunctions.net/productos
+//user: helena@gmail.com
+//pass: 123456

@@ -151,3 +151,4 @@ export default new Vuex.Store({
 //https://us-central1-otto-klaus-99dfe.cloudfunctions.net/productos
 //user: helena@gmail.com
 //pass: 123456
+//holding: https://otto-klaus-99dfe.web.app
